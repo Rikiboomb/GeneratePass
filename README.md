@@ -14,7 +14,7 @@
 ```apt install python2```
 ```apt install python3```
 
-#### Компилируем
+#### Переходим в папку
 
 ```cd GeneratePass```
 
