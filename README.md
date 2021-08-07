@@ -20,5 +20,5 @@
 
 ### Использование
 
-```python3 genpass.py```
+```python3 passgen.py```
          
